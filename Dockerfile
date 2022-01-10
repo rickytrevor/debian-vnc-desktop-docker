@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:latest
 
 LABEL com.gbelectronics.vendor="GB Electronics (UK) Ltd" \
       com.gbelectronics.version="0.2-DEV"
